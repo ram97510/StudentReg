@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Navinkumar",
+      "class": "B.com",
+      "address": "Dharmapuri",
+      "email": "navin@gmail.com",
+      "city": "Dharmapuri",
+      "password": "navin"
+    },
+    {
+      "id": 2,
+      "name": "Aakash",
+      "class": "B.Sc.",
+      "address": "Metupalayam",
+      "email": "aakash@gmail.com",
+      "city": "coimbatore",
+      "password": "aakash"
+    },
+    {
+      "id": 3,
+      "name": "Ramkumar",
+      "class": "BCA",
+      "address": "Theni",
+      "email": "ram@gmail.com",
+      "city": "Theni",
+      "password": "ram"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
